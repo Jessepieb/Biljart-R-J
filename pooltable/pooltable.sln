@@ -5,6 +5,8 @@ Project("{3877901C-DC95-E9C3-0630-4A6CC1083AE4}") = "pooltable", "Assembly-CShar
 EndProject
 Project("{3877901C-DC95-E9C3-0630-4A6CC1083AE4}") = "pooltable", "Assembly-CSharp-Editor.csproj", "{7C6A9EC2-3939-8A26-34AF-317875BB9763}"
 EndProject
+Project("{3877901C-DC95-E9C3-0630-4A6CC1083AE4}") = "pooltable", "Assembly-UnityScript-firstpass.unityproj", "{8F9DB124-BDCB-7D33-1CBE-14EB375B09D0}"
+EndProject
 Project("{3877901C-DC95-E9C3-0630-4A6CC1083AE4}") = "pooltable", "Assembly-UnityScript.unityproj", "{15A5F18F-D42C-5097-1D4C-E553278D727D}"
 EndProject
 Global
@@ -21,6 +23,10 @@ Global
 		{7C6A9EC2-3939-8A26-34AF-317875BB9763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C6A9EC2-3939-8A26-34AF-317875BB9763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C6A9EC2-3939-8A26-34AF-317875BB9763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9DB124-BDCB-7D33-1CBE-14EB375B09D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9DB124-BDCB-7D33-1CBE-14EB375B09D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9DB124-BDCB-7D33-1CBE-14EB375B09D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9DB124-BDCB-7D33-1CBE-14EB375B09D0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{15A5F18F-D42C-5097-1D4C-E553278D727D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{15A5F18F-D42C-5097-1D4C-E553278D727D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15A5F18F-D42C-5097-1D4C-E553278D727D}.Release|Any CPU.ActiveCfg = Release|Any CPU
