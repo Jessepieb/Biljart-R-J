@@ -1,12 +1,8 @@
-﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Furniture Pack 1 Free\Scripts\MouseOrbitZoom.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CollissionTest.js">
     <Files>
-      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Utility\CurveControlledBob.cs" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Utility\DragRigidbody.cs" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Utility\AutoMoveAndRotate.cs" Line="1" Column="1" />
-      <File FileName="Assets\Furniture Pack 1 Free\Scripts\MouseOrbitZoom.js" Line="5" Column="16" />
+      <File FileName="Assets\Scripts\CollissionTest.js" Line="13" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
