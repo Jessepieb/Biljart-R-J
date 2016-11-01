@@ -46,10 +46,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Furniture Pack 1 Free\Scripts\MouseOrbitZoom.js" />
-     <Compile Include="Assets\Scripts\collision testing.js" />
-     <Compile Include="Assets\Scripts\collision.js" />
-     <Compile Include="Assets\Scripts\collisiondebug.js" />
-     <Compile Include="Assets\Scripts\tetstcoll.js" />
+     <Compile Include="Assets\Scripts\Draw.js" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.js" />
+     <Compile Include="Assets\Scripts\Rotate.js" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Models\Materials\Velvet\Velvet.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
